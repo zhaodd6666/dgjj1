@@ -8,6 +8,11 @@ public class DGJJ1 {
 		System.out.println("¹Â");
 		System.out.println("¾Å");
 		System.out.println("½£");
+		
+		System.out.println("¶À");
+		System.out.println("¹Â");
+		System.out.println("¾Å");
+		System.out.println("½£");
 
 	}
 
