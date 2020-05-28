@@ -3,12 +3,14 @@ package dgjj1;
 public class DGJJ1 {
 
 	public static void main(String[] args) {
-		System.out.println("¸ÇÊÀÓ¢ĞÛ");
-		System.out.println("¶À");
-		System.out.println("¹Â");
-		System.out.println("¾Å");
-		System.out.println("½£");
-		System.out.println("¸ÇÊÀÓ¢ĞÛ");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ó¢ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ó¢ï¿½ï¿½");
+		
+		System.out.println("ä½ å¥½å¸æ˜Ÿå¤§æ³•");
 
 	}
 
