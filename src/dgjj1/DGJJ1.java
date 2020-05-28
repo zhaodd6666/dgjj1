@@ -10,7 +10,7 @@ public class DGJJ1 {
 		System.out.println("��");
 		System.out.println("����Ӣ��");
 		
-		System.out.println("你好吸星大法");
+		System.out.println("nihao");
 
 	}
 
